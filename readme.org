@@ -1,12 +1,21 @@
-squery
-==========
+#+TITLE: squery
+#+AUTHOR: Jinghui Hu
+#+EMAIL: hujinghui@buaa.edu.cn
+#+DATE: <2018-11-20 Tue>
+#+TAGS: SQLi emacs sql scripts
+
 
 **squery** is a bundle sql scripts
 
 
-## cheatsheet for emacs user
+* Emacs 参考快捷键
 
 - C-c C-c: send paragraph to SQLi
 - C-c <tab>: start SQLi session
 - C-c C-l a: list all objects
 - C-c C-l t: list table detail
+
+
+* 参考链接
+
+1. [[https://github.com/jeanhwea/orgfiles/blob/master/article/25.connect-oracle-database.org][Oracle 数据库]]
