@@ -1,8 +1,3 @@
--- cheatsheet
--- C-c <tab>: start SQLi session
--- C-c C-l a: list all objects
--- C-c C-l t: list table detail
-
 -- display all tables
 SELECT table_name FROM USER_TABLES;
 
