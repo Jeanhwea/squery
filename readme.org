@@ -19,3 +19,4 @@
 * 参考链接
 
 1. [[https://github.com/jeanhwea/orgfiles/blob/master/article/25.connect-oracle-database.org][Oracle 数据库]]
+2. [[https://github.com/Jeanhwea/mysql-crash-course][MySQL必知必会读书笔记]]
