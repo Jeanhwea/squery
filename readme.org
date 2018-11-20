@@ -1,0 +1,12 @@
+squery
+==========
+
+**squery** is a bundle sql scripts
+
+
+## cheatsheet for emacs user
+
+- C-c C-c: send paragraph to SQLi
+- C-c <tab>: start SQLi session
+- C-c C-l a: list all objects
+- C-c C-l t: list table detail
