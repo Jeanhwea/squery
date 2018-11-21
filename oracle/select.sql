@@ -1,0 +1,12 @@
+-- display all tables
+SELECT table_name FROM USER_TABLES;
+
+SELECT COUNT(MYID) FROM T_LOG;
+
+SELECT COUNT(MYID)
+  FROM T_EMPLOYEE_BASE;
+
+-- select
+SELECT MYID, E_NAME
+  FROM T_EMPLOYEE_BASE
+ WHERE rownum <= 10;
